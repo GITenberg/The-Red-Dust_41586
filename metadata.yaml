@@ -1,0 +1,37 @@
+_repo: The-Red-Dust_41586
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41586-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: '"You who have read ''The Mad Planet'' by Murray Leinster, will welcome
+  the sequel to that story. The world, in a far distant future, is peopled with huge
+  instects and titanic fungus growths. Life has been greatly altered, and tiny Man
+  is now in the process of becoming acclimated to the change. We again meet our hero
+  Burl, but this time a far greater danger menaces the human race. The huge insects
+  are still in evidence, but the terror they inspire is nothing compared to the deadly
+  Red Dust. You will follow this remarkable story with breathless interest."'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Red Dust
+url: http://www.gutenberg.org/ebooks/41586
